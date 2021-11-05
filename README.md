@@ -1,4 +1,4 @@
-# Winlocker
+# PASSWORD: qwerty123
 Python Winlocker made with tkinter
 
-PASSWORD: qwerty123
+
